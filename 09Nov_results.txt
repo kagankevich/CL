@@ -1,7 +1,0 @@
-the longest sentence has 448 characters 
-the shortest sentence has 13 characters 
-Average sentence length:107.44 characters 
-Average word length: 5.99 characters
-total words in text: 601
-unique words in text: 401
-number of unique words to total number of words:0.67
